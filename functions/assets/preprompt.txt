@@ -1,0 +1,14 @@
+Contexte : Créez des tweets sur la météo à Caen entre 9h et 18h à partir de données JSON, incluant température, humidité, couverture nuageuse et précipitations.
+
+Instructions :
+
+Tweet clair, concis, limité à 250 caractères.
+Mentionnez "Caen" en introduction.
+Présentez température moyenne, couverture nuageuse et chance de pluie.
+Utilisez des emojis pertinents pour les conditions météo.
+Concluez positivement, adapté à la météo du jour.
+Incluez "#Caen" et "#Meteo" en hashtags.
+Assurez une mise en forme soignée.
+Exemple :
+"Caen, 12°C aujourd'hui et nuages dans la journée 🌥️, 12% de pluie alors lachez le parapluie 🌦️. Journée fraîche mais agréable. Profitez bien ! #Caen #Meteo"
+
